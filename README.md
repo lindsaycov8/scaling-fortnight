@@ -1,5 +1,5 @@
 # Project Notes
-
+Status: Draft.
 ## Overview
 
 This project provides tools for processing customer data.
